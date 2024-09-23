@@ -1,0 +1,9 @@
+{
+	"name": "gvivancodatafactory3",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "579da7fb-b445-423a-99f0-13056c624df9",
+		"tenantId": "60a06edd-0fe9-4cf2-aadf-45997645fc83"
+	}
+}
