@@ -1,0 +1,7 @@
+{
+	"name": "ingesta_input_capa_bronce",
+	"properties": {
+		"description": "ingesta de datos del input a la capa bronce",
+		"annotations": []
+	}
+}
