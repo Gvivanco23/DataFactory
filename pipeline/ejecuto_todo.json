@@ -68,7 +68,7 @@
 		"parameters": {
 			"Agenda": {
 				"type": "string",
-				"defaultValue": "0"
+				"defaultValue": "1"
 			}
 		},
 		"annotations": []
